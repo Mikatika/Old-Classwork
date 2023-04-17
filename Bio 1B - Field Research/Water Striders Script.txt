@@ -1,0 +1,66 @@
+When we looked at the water striders we collected, we found that they seemed to be 
+split into two classes:
+One class was much larger, and featured a hard exoskeleton, rectangular body, 
+similarly sized middle and hind limbs and a darker coloration,
+While the other was much smaller, had a softer exoskeleton, and a squatter body
+
+We decided to graph our water striders' body length to weight to see if we could find any significant differences, and
+as you can see on the graph here, there seem to be two primary clusters of water striders.
+We then decided to split our water striders into two size classes around 35 mg, 
+based on both morphological observations and the distribution on this graph.
+
+
+After finishing our measurements, we ran Anova tests to compare the strider populations between each of the three forks.
+The ANOVAs were run in different groups: first, with all of the water striders, between each location,
+and then separately, comparing the large and small groups individually between each fork.
+In each size group, we ran ANOVAs on the body parameters mentioned earlier, as well as on body condition and a few other ratios.
+After these tests, we took the significant results and ran Tukey HSD tests on them to determine the source of significance;
+that is to say, which fork was significantly different. 
+
+So, for our results.
+
+Here's our first ANOVA test, comparing body length to location for all of our water striders. The rest of the ANOVAs run
+on the combined size class featured similar results, with largely overlapping interquartile ranges resulting in high P values
+
+We then moved on to the large striders, where we found even closer similarities between all three forks.
+As you can see, the interquartile ranges are practically identical, and we got a P value of .93, 
+which was pretty much the case for all of the body parameters in the large striders.
+
+However, when we got to our small striders, we started to find significant differences between groups. Specifically, striders in
+the south fork, marked red, exhibited significantly shorter body, middle femur, and hind femur lengths.
+
+Our body parameter analysis complete, we now needed to explain these differences.
+We looked to our water parameters and, while we weren't able to collect many measurements, the measurements we did have pointed to
+a few significant differences between the forks. However, the parameter we focused on was the Chlorine concentration,
+given that it is the parameter that sets the South Fork apart, and also because of the extent of
+how much higher the concetration was compared to the other forks.
+
+Here is the earlier ANOVA, but with the locations replaced with the chlorine levels found in each location. 
+If you look on the right side, you'll see the lowest body lengths match with the elevated chlorine level.
+
+We were also interested in looking at a more qualitative measure of water strider health: Body Condition, which we measured
+as a ratio of weight to body length. These graphs compare the different body conditions between the forks for both small 
+and large striders. While the P values do not indicate significant findings, it should be pointed out that the south fork has 
+striders with slightly lower body condition, indicating less plump striders there, a potential direction to look at.
+
+Finally, we took the ratio of femur length to body length, and compared this ratio across the different size classes. This measurement
+was in response to a hypothesis about the size classes being linked to age groups.
+
+
+---------------------------------
+
+
+One of the behavioral differences that could have lead to different results in significance between the large and 
+small striders was differences in dispersal ability. 
+Female water striders generally choose areas with high vegetation and slow currents to oviposit, and juvenile striders typically
+do not stray far from these areas. This could in part be because they are more subject to changing water conditions, and the
+high vegetation provides some shelter. This is also due to both competition and cannibalism from mature striders, who tend to prefer
+slower, open waters. This may be because dense vegetation inhibits their movement. Mature striders also have far more freedom in
+their dispersal, and can travel between different locations.
+
+Because of this difference in dispersal however, mature water striders are subject to a different set of factors than juvenile striders.
+Our sampling sites varied in terms of sunlight, vegetation, presence of man-made structures, and especially water speed; 
+given that our samples were only collected from one point along each fork, our data on the large size class may not
+properly account for mature striders who traveled from other sites; future testing should include multiple sampling 
+sites to account for these factors
+
